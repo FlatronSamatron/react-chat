@@ -1,0 +1,12 @@
+.msg-chat-header{
+    height: 40px;
+    background-image: url("/public/images/grey.jpg");
+    padding: 10px 0 10px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.chat-user-name{
+    font-weight: 500;
+    margin-left: 15px;
+}

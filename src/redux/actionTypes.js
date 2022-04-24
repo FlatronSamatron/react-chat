@@ -1,0 +1,5 @@
+export const actionTypes = {
+    CONTACTS_LIST : "CONTACTS_LIST",
+    CONTACT_CHAT : "CONTACT_CHAT",
+    CONTACT_CHATTING : "CONTACT_CHATTING",
+}

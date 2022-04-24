@@ -1,0 +1,14 @@
+.msg-panel{
+    width: 30%;
+    height: 100vh;
+    border-right: 1px solid darkgray;
+}
+.panel-chats-header{
+    margin: 0;
+    height: 70px;
+    color: #1e90ff;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-weight: 400;
+}

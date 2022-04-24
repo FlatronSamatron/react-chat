@@ -1,0 +1,17 @@
+.chat-input{
+    display: flex;
+    height: 100px;
+    background-image:  url("/public/images/grey.jpg");
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat-input input[type="text"]{
+    width: 90%;
+    height: 30px;
+    border: 1px darkgray solid;
+    border-radius: 15px;
+    padding: 0 15px;
+    outline: none;
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Alice Freeman",
+    "avatar": "./images/user2.png",
+    "history": [
+      {
+        "author": "contact",
+        "text": "Hi! Where are you?",
+        "date": "2022-04-20",
+        "time": "4:10 PM"
+      },
+      {
+        "author": "user",
+        "text": "Hi! I am working at home today. Do you need something?",
+        "date": "2022-04-20",
+        "time": "4:15 PM"
+      },
+      {
+        "author": "contact",
+        "text": "Oh, nothing urgent. Thought you're somewhere here at the office. See you tomorow",
+        "date": "2022-04-20",
+        "time": "4:10 PM"
+      },
+      {
+        "author": "user",
+        "text": "Ok. Bye then.",
+        "date": "2022-04-20",
+        "time": "4:10 PM"
+      }
+    ]
+  },
+  {
+    "name": "Josefina",
+    "avatar": "./images/user3.png",
+    "history": [
+      {
+        "author": "contact",
+        "text": "Quikly come to the meeting room 1B, we have a big server issue",
+        "date": "2022-04-18",
+        "time": "6:30 PM"
+      },
+      {
+        "author": "user",
+        "text": "I'm having breakfast right now, cant'n you wait for 10 minutes?",
+        "date": "2022-04-18, 18:35:00",
+        "time": "6:35 PM"
+      },
+      {
+        "author": "contact",
+        "text": "We are losing money! Quick",
+        "date": "2022-04-18",
+        "time": "6:36 PM"
+      }
+    ]
+  },
+  {
+    "name": "Velazquez",
+    "avatar": "./images/user4.png",
+    "history": [
+      {
+        "author": "contact",
+        "text": "Quikly come to the meeting room 1B, we have a big server issue",
+        "date": "2022-04-18",
+        "time": "6:25 PM"
+      }
+    ]
+  },
+  {
+    "name": "Barrera",
+    "avatar": "./images/user5.png",
+    "history": [
+      {
+        "author": "contact",
+        "text": "Hi! Heard you had some server issues yesterday. Is everything ok?",
+        "date": "2022-04-21",
+        "time": "9:00 AM"
+      },
+      {
+        "author": "user",
+        "text": "Hi! Nothing serious. We've managed it.",
+        "date": "2022-04-21",
+        "time": "9:05 AM"
+      },
+      {
+        "author": "contact",
+        "text": "Are you sure? Josefina called me and was very angry at you. What happened?",
+        "date": "2022-04-21",
+        "time": "9:07 AM"
+      },
+      {
+        "author": "user",
+        "text": "I was having my breakfast and didn't showed up the same second she called me.",
+        "date": "2022-04-21",
+        "time": "9:10 AM"
+      },
+      {
+        "author": "contact",
+        "text": "I see.",
+        "date": "2022-04-21",
+        "time": "9:13 AM"
+      }
+    ]
+  }
+]

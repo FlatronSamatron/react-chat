@@ -1,0 +1,18 @@
+
+.msg-panel-header{
+    height: 100px;
+    padding: 10px;
+    background-image: url("/public/images/grey.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.msg-panel-header input[type="text"] {
+    width: calc(100% - 35px);
+    height: 30px;
+    border-radius: 15px;
+    outline: none;
+    border: 1px darkgray solid;
+    padding: 0 15px;
+}
