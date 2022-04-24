@@ -14,4 +14,11 @@
     border-radius: 15px;
     padding: 0 15px;
     outline: none;
+    position: relative;
+}
+
+.send-img{
+    position: absolute;
+    right: 4%;
+    cursor: pointer;
 }

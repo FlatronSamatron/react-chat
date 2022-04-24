@@ -63,7 +63,7 @@ class MsgChatInput extends Component {
                        value={this.state.inputText}
                        onChange={(e)=>this.inputHandler(e)}
                 />
-                {/*<img src="" alt=""/>*/}
+                <img className="send-img" src="./images/send.png" alt="send-img" onClick={(e)=>this.submitHandler(e)}/>
             </form>
         );
     }
